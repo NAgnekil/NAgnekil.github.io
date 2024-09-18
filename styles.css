@@ -233,8 +233,8 @@ main {
   article {
     background-color: var(--color-platinum);
     border-radius: 8px;
-    width: 80%;
-    height: 80%;
+    width: 90%;
+    height: 90%;
     overflow: auto;
     overflow-x: hidden;
     -ms-overflow-style: none;
